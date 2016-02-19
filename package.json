@@ -47,6 +47,7 @@
     "inuit-spacing": "^0.7.0",
     "inuit-tables": "^0.2.1",
     "inuit-tabs": "^0.2.1",
+    "inuit-tools-widths": "^0.1.4",
     "inuit-widths": "^0.4.2"
   }
 }
