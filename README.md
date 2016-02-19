@@ -1,5 +1,9 @@
 # inuit-full-kit
 
+Get the modules:
+
+    npm i
+
 I found it hard to get an overview of all the inuit modules via github / npm 
 so here are all modules from https://github.com/inuitcss as npm modules.
 
