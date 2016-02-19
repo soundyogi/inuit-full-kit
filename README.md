@@ -5,5 +5,8 @@ so here are all modules from https://github.com/inuitcss as npm modules.
 
     npm install inuit-full-kit
     
-## Import Order and other info:
+### How to get Started and Important Info
 https://github.com/inuitcss/getting-started#import-order
+
+### Real Life use of InuitCSS and ITCSS
+https://github.com/csswizardry/csswizardry.github.com/blob/master/css/csswizardry.scss
