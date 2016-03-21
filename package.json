@@ -16,6 +16,7 @@
     "css"
   ],
   "dependencies": {
+    "inuit-block": "^0.1.2",
     "inuit-box": "^0.4.4",
     "inuit-box-sizing": "^0.2.0",
     "inuit-buttons": "^0.4.2",
@@ -24,6 +25,7 @@
     "inuit-flag": "^0.3.2",
     "inuit-functions": "^0.2.0",
     "inuit-headings": "^0.3.1",
+    "inuit-headings-trumps": "^0.1.3",
     "inuit-images": "^0.3.3",
     "inuit-layout": "^0.2.2",
     "inuit-list-bare": "^0.3.0",
