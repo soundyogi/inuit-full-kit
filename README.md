@@ -1,3 +1,10 @@
+# [DEPRECATED] see: https://github.com/inuitcss/inuitcss
+
+
+
+
+
+
 # inuit-full-kit
 
 I found it hard to get an overview of all the inuit modules via github / npm 
